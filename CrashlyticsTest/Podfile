@@ -1,6 +1,8 @@
 platform :osx, '10.11'
 
 target 'CrashlyticsTest' do
+  use_frameworks!
+  
   pod 'FirebaseCore'
   pod 'Firebase/Crashlytics'
   pod 'Firebase/Analytics'
