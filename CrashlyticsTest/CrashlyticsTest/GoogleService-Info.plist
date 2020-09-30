@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>9324215237-fbqrg9cbjhd4fsl7e0d7rt3aivi7l5kb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.9324215237-fbqrg9cbjhd4fsl7e0d7rt3aivi7l5kb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6Tk1orxw8J5U1yEhJ2bnVQxvVmVCVcNo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>9324215237</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.clario.CrashlyticsTest</string>
+	<key>PROJECT_ID</key>
+	<string>clario-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clario-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:9324215237:ios:3eb04d3b99606c299f29ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://clario-test.firebaseio.com</string>
+</dict>
+</plist>
